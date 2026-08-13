@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Annamikya/leetcode/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/Annamikya/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Annamikya/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Annamikya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Annamikya/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Annamikya/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Annamikya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Annamikya/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
